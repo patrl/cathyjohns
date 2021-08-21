@@ -1,0 +1,3 @@
+[submodule "browsersync-nix"]
+	path = browsersync-nix
+	url = https://github.com/srid/browsersync-nix
